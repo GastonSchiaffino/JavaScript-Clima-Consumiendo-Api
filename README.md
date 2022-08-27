@@ -5,4 +5,4 @@ En este proyecto se realizo el consumo de una api externa llamada OpenWeatherMap
 https://gastonschiaffino.github.io/JavaScript-Clima-Consumiendo-Api/
 
 ### :tv: Home Screen
-![home](/assets/.png)
+![home](/assets/clima.png)
